@@ -1,0 +1,10 @@
+name: quakewatch
+region: nyc
+static_sites:
+  - name: quakewatch
+    github:
+      repo: rkasper/quakewatch
+      branch: main
+      deploy_on_push: true
+    build_command: npm install && npm run build
+    output_dir: dist
