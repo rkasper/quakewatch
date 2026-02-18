@@ -27,4 +27,7 @@ Start by scaffolding the Vite project, then build incrementally.
 - doctl is using the wrong context, for a different team. How do I specify which team context to use?
 - How do I make awesome-lab the current context?
 - Great! Let's go back to deploying this as an app on DigitalOcean App Platform. Make sure we're in team Awesome Lab.
-- I'll commit the code and push it to a repo. The repo is: 
+- I just committed the code. Before I push it, help me rename the branch from 'master' to 'main'.
+- I'm creating a new repo at github.com. What should I name the repo?
+- Give me a description, and let's create an open source license file.
+- Should we add a README before pushing, or just go?
