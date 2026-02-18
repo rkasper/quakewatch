@@ -34,5 +34,3 @@ Start by scaffolding the Vite project, then build incrementally.
 - OK, I created the repo via WebStorm, and I pushed. Let's continue with DigitalOcean.
 - That's good! And let's run it from NYC.
 - Looks like it's done building. Let's continue.
-- ![3E0110B6-2589-4CE6-8464-542C62DB9D43_4_5005_c.jpeg](../../../Pictures/Photos%20Library.photoslibrary/resources/derivatives/masters/3/3E0110B6-2589-4CE6-8464-542C62DB9D43_4_5005_c.jpeg)
-![1A90A729-0DF6-404E-AC90-7F74B7141E60_4_5005_c.jpeg](../../../Pictures/Photos%20Library.photoslibrary/resources/derivatives/masters/1/1A90A729-0DF6-404E-AC90-7F74B7141E60_4_5005_c.jpeg)
